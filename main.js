@@ -5,10 +5,10 @@
  function xify (string){
   let str = '';
   for (const letter of string){
-    str= str + 'x';
+    str = str + 'x';
   }
   return str;
-}
+ }
 
 function yellingChars(str){
   let newStr = "";
